@@ -10,7 +10,7 @@ function App() {
           className="App-logo"
           alt="Sarah and Logan"
         />
-        <p>Future snazzy website of Sarah Nicole Carter 8)</p>
+        <p>Future snazzy website of Sarah Nicole Carter 😎</p>
         <a
           className="App-link"
           href="https://github.com/sarah4594"
